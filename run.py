@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import itchat
-from PiMain import Raspberry
+from pimain import Raspberry
 
 pi = Raspberry()
 
